@@ -183,7 +183,7 @@ https://templatemo.com/tm-570-chain-app-dev
                   </div>
                   <div class="col-lg-12">
                     <div class="white-button first-button scroll-to-section">
-                      <a href="#contact">Android<i class="fab fa-google-play"></i></a>
+                      <a href="https://play.google.com/store/apps/details?id=site.alifcare.app" target="_blank">Android<i class="fab fa-google-play"></i></a>
                     </div>
                     <div class="white-button scroll-to-section">
                       <a href="#contact">iOS<i class="fab fa-apple"></i></a>
@@ -251,7 +251,7 @@ https://templatemo.com/tm-570-chain-app-dev
             
           </div>
         </div>
-        <!-- <div class="col-lg-3 list_assurance" style="margin-bottom: 1%; display: flex;justify-content: center;">
+        <div class="col-lg-3 list_assurance" style="margin-bottom: 1%; display: flex;justify-content: center;">
           <div class="seven-service">
             <div class="icon"></div>
             <h4>Assurance Habitation</h4>
@@ -271,7 +271,7 @@ https://templatemo.com/tm-570-chain-app-dev
             <h4>Autres Assurances</h4>
            
           </div>
-        </div> -->
+        </div>
       </div>
     </div>
   </div>
@@ -336,7 +336,7 @@ https://templatemo.com/tm-570-chain-app-dev
              
               <li>
                   <div class="border-button">
-                    <a href="#">Android sur PLAYSTORE</a>
+                    <a href="https://play.google.com/store/apps/details?id=site.alifcare.app" target="_blank">Android sur PLAYSTORE</a>
                   </div>
               </li>
               <li>
@@ -359,7 +359,7 @@ https://templatemo.com/tm-570-chain-app-dev
         <div class="col-lg-3">
           <div class="pricing-item-regular">
             <span class="price"></span>
-            <h4>Clicquer sur Souscrire à une assurance</h4>
+            <h4>Cliquer pour Souscrire à une assurance</h4>
             <div class="icon">
                 <img src="assets/images/home.PNG" style="height: 300px;width: auto;" alt="">
             </div>
@@ -367,7 +367,7 @@ https://templatemo.com/tm-570-chain-app-dev
         </div>
          <div class="col-lg-3">
           <div class="pricing-item-regular">
-            <h4>Uphloader et valider le document démandé</h4>
+            <h4>Televerser et valider le document démandé</h4>
             <div>
                 <img src="assets/images/afterchoice.PNG" style="height: 300px;width: auto;" alt="">
             </div>
